@@ -1,0 +1,21 @@
+{
+  "name": "Elizabeth Taylor",
+  "designation": "Student",
+  "company": {
+    "name": "Boston Conservatory at Berklee",
+    "url": "https://bostonconservatory.berklee.edu"
+  },
+  "description": "The Transition from Performing to Programming. Stay tuned!",
+  "socialLinks": [
+    {
+      "name": "github",
+      "url": "https://github.com/ElizabethViolin"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/elizabeth-taylor-joy/"
+    }
+  ],
+  "resume": "files/Resume.pdf",
+  "note": "Seeking employment opportunities in Software Development."
+}
