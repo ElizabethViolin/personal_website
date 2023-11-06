@@ -13,9 +13,6 @@ export default function Educations({ educations }: any): JSX.Element {
       {educations.length > 0 && (
         <Container className="mt-9">
           <div className="max-w-3xl">
-            <h3 className="font-bold text-2xl md:text-4xl tracking-tight mb-6 text-zinc-800 dark:text-zinc-100">
-              Education
-            </h3>
 
             {educations.slice(0, 2).map((education: any, index: any) => (
               <EducationCard key={index} props={education} />

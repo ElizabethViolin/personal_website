@@ -17,9 +17,7 @@ export default function Experiences({
       {experiences.length > 0 && (
         <Container className="mt-9">
           <div className="max-w-3xl">
-            <h3 className="font-bold text-2xl md:text-4xl tracking-tight mb-6 text-zinc-800 dark:text-zinc-100">
-              Experience
-            </h3>
+
 
             {experiences.slice(0, 3).map((experience: any, index: any) => (
               <ExperienceCard key={index} props={experience} />

@@ -7,7 +7,7 @@
     "location": "Dover, DE",
     "type": "Internship (Full-time)",
     "date": "Sept 2023 - Present",
-    "description": "In my role as a full-stack developer, I alongside my team designed a web application for real-time audio summarization in business meetings and interviews. It incorporated the ChatGPT API for dynamic conversations and featured a concise summarization method for lengthy texts. I also introduced the Ms Voice service for seamless speech-to-text conversion and integrated DynamoDB for efficient data management.",
+    "description": "Fun fact: I speak fluent Mandarin. At Jreamscape, the majority of the employees come from China. So not only has this company given me valuable full stack work experience, but also my Mandarin has become much more natural and conversational. The specifics about what I've accomplished during this internship are listed on every other platform and document that my name appears, so I'll let you read that elsewhere!",
     "skills": [
       "React",
       "AWS",
