@@ -6,7 +6,6 @@ import Articles from "./Articles";
 import Educations from "./Educations";
 import Experiences from "./Experiences";
 import LifeEvents from "./LifeEvents";
-import Publications from "./Publications";
 
 // get educations from the local file
 async function getEducations(): Promise<any> {
