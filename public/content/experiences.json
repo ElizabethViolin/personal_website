@@ -7,7 +7,7 @@
     "location": "Dover, DE",
     "type": "Internship (Full-time)",
     "date": "Sept 2023 - Present",
-    "description": "Full-stack builder of our meeting notes app that transfer real-time speech into texts for LLM summarization.",
+    "description": "In my role as a full-stack developer, I alongside my team designed a web application for real-time audio summarization in business meetings and interviews. It incorporated the ChatGPT API for dynamic conversations and featured a concise summarization method for lengthy texts. I also introduced the Ms Voice service for seamless speech-to-text conversion and integrated DynamoDB for efficient data management.",
     "skills": [
       "React",
       "AWS",

@@ -1,11 +1,6 @@
 {
   "name": "Elizabeth Taylor",
-  "designation": "Student",
-  "company": {
-    "name": "Boston Conservatory at Berklee",
-    "url": "https://bostonconservatory.berklee.edu"
-  },
-  "description": "The Transition from Performing to Programming. Stay tuned!",
+  "description": "Here, you can get to know who Liz is behind the various documents and professional profiles :)",
   "socialLinks": [
     {
       "name": "github",
@@ -17,5 +12,5 @@
     }
   ],
   "resume": "files/Resume.pdf",
-  "note": "Seeking employment opportunities in Software Development."
+  "note": "I am seeking Summer 2024 internship opportunities!!"
 }

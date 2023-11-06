@@ -32,7 +32,7 @@ export default function AuthorCard({
           <div>
             <p>
               <Link href={article.author.url || ""}> Elizabeth Taylor</Link>{" "}
-              is a graduate (Sept 2021 - Dec 2023 expected) student from Boston Conservatory at Berklee in MS in Data Science.
+              is a student from Boston Conservatory at Berklee.
             </p>
           </div>
         </div>
