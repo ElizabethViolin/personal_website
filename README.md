@@ -1,24 +1,49 @@
+<img width="342" alt="image" src="https://github.com/ElizabethViolin/personal_website/assets/130325688/14006bd5-32e4-4388-b8f8-52297adcf94c">
+
+# Personal Website/Blog 🌻
+
+## Tech Stack:
+- Next.js
+- React
+- Typescript
+- Tailwind CSS
+- Vercel AI
+
+## Description
+### Header Section:
+
+Include your profile picture, full name, and a brief statement about yourself:
+
+<img width="500" alt="image" src="https://github.com/ElizabethViolin/personal_website/assets/130325688/45ab3c51-772c-4d1e-bee7-1270784afed3">
 
 
-In short, the tech stack of the website is as follows:
+Clickable logos for your links:
+- GitHub
+- LinkedIn
+- Resume
+<img width="150" alt="image" src="https://github.com/ElizabethViolin/personal_website/assets/130325688/46e14b7f-fdc3-4a07-8900-ba1a14f04bbc">
 
-- Framework: [Next.js](https://nextjs.org/)
-- Styling: [Tailwind CSS](https://tailwindcss.com/)
-- Icons: [Heroicons](https://heroicons.com/)
-- Content: [Markdown](https://www.markdownguide.org/)
-- Content Management: [Contentlayer](https://www.contentlayer.dev/)
-- Deployment: [Vercel](https://vercel.com/)
-- Comments: [giscus](https://giscus.app/)
+### Main Sections:
 
-## Overview
+*1. Education:*
 
-- `app/*`: I have used next.js new `app` directory structure. This directory contains the main app.
-- `components/*`: All custom components are stored in this directory.
-- `content/*`: This directory contains all the [Contentlayer](https://contentlayer.dev/) contents.
-- `public/*`: This directory contains all the static assets of the website.
-- `public/content/*`: This directory contains all the static contents of the website. e.g. projects, experiences, education, etc.
-- `styles/*`: I have used Tailwind CSS for styling. This directory contains the Tailwind CSS global styles and some custom styles for the website.
-- `utils/*`: This directory contains some utility functions.
+Include details about your educational background, such as degrees, institutions, and graduation years.
+You can also highlight any organizations associated with each entry. 
+
+<img width="550" alt="image" src="https://github.com/ElizabethViolin/personal_website/assets/130325688/28baa689-a652-41da-83c6-240f6038c053">
+
+*2. Experience:*
+
+Showcase your work experience, including job titles, companies, dates, and job descriptions.
+Also, highlight any skills or recognitions associated with each entry. 
+
+<img width="550" alt="image" src="https://github.com/ElizabethViolin/personal_website/assets/130325688/c74c02fd-9409-4b63-be52-e87d1ce8889e">
+
+*3. Life Events:*
+
+This section can be a bit more creative. Share significant personal or professional milestones or interesting life experiences.
+
+<img width="500" alt="image" src="https://github.com/ElizabethViolin/personal_website/assets/130325688/2c22e256-d55d-4e71-8258-648b4caaf015">
 
 ## Cloning and Forking
 
@@ -60,6 +85,3 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-## Thanks
-https://github.com/mirsazzathossain/mirsazzathossain.me
