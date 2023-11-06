@@ -1,3 +1,4 @@
+//@ts-nocheck
 "use client";
 
 import clsx from "clsx";
@@ -10,10 +11,10 @@ import MobileNavigation from "./MobileNavigation";
 import ThemeSelector from "./ThemeSelector";
 
 const navigations = [
-  { href: "/", label: "Home" },
-  { href: "/articles", label: "Articles" },
-  { href: "/projects", label: "Projects" },
-  { href: "/resources", label: "Resources" },
+  // { href: "/", label: "Home" },
+  // { href: "/articles", label: "Articles" },
+  // { href: "/projects", label: "Projects" },
+  // { href: "/resources", label: "Resources" },
 ];
 
 function clamp(value: number, a: number, b: number): number {

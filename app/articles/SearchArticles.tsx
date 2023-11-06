@@ -1,4 +1,6 @@
+//@ts-nocheck
 "use client";
+
 import ArticleCard from "components/ArticleCard";
 import { MagnifyingGlassIcon, NotFoundIcon } from "components/Icons";
 import { Article } from "contentlayer/generated";

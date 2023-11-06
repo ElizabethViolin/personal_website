@@ -1,3 +1,4 @@
+//@ts-nocheck
 import SimpleLayout from "components/SimpleLayout";
 import { server } from "config";
 import { allArticles, Article } from "contentlayer/generated";
@@ -67,8 +68,8 @@ export default async function Articles({
 
   return (
     <SimpleLayout
-      title="Writing on Machine Learning, Advance Math, and Programming"
-      intro="All my articles are written with the goal of helping you learn something new. I hope you enjoy them!"
+      title=""
+      intro=""
     >
       <SearchArticles articles={articles} page={page} />
     </SimpleLayout>
