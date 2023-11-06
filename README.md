@@ -1,10 +1,4 @@
-![Tech Stack](public/images/msh-nextjs.png)
 
-## www.huangyiqiu.com
-
-![website status](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmirsazzathossain.me&style=flat-square) ![GitHub](https://img.shields.io/github/license/mirsazzathossain/mirsazzathossain.me?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/hyqshr/personal-blog?style=flat-square) ![GitHub repo size](https://img.shields.io/github/repo-size/hyqshr/personal-blog?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/hyqshr/personal-blog?style=flat-square)
-
-React 精美的个人博客。基于Next.js, 提供静态markdown x页面生成，github评论系统。
 
 In short, the tech stack of the website is as follows:
 
