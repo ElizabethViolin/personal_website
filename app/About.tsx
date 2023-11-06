@@ -51,16 +51,6 @@ export default async function About() {
         <h1 className="text-3xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
           {about.name}
         </h1>
-        <h2 className="text-gray-600 dark:text-gray-400 tracking-tighter mb-4">
-          {about.designation} at{" "}
-          <Link
-            className="font-semibold"
-            href={about.company.url}
-            target={"_blank"}
-          >
-            {about.company.name}
-          </Link>
-        </h2>
         <p
           className="mt-6 text-base text-zinc-600 dark:text-zinc-400"
           style={{ whiteSpace: "pre-line" }}
@@ -70,7 +60,7 @@ export default async function About() {
 
         {about.note && (
           <p className="mt-5 text-base text-zinc-600 dark:text-zinc-400">
-            <b>*Note:</b> {about.note}
+            <b>Note:</b> {about.note}
           </p>
         )}
 
