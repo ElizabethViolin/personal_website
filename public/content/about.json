@@ -1,6 +1,6 @@
 {
   "name": "Elizabeth Taylor",
-  "description": "Here, you can get to know who Liz is behind the various documents and professional profiles :)",
+  "description": "You can call me Liz!",
   "socialLinks": [
     {
       "name": "github",
@@ -11,6 +11,6 @@
       "url": "https://www.linkedin.com/in/elizabeth-taylor-joy/"
     }
   ],
-  "resume": "files/Resume.pdf",
-  "note": "I am seeking Software Engineer Internship opportunities for Summer 2024!!"
+  "resume": "files/Resume_ET.pdf",
+  "note": "I am seeking Software Engineer Internship opportunities for Summer 2024."
 }
