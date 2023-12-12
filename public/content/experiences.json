@@ -1,13 +1,32 @@
 [
   {
-    "title": "Software Engineer Intern",
-    "company": "Jreamscape LLC",
+    "title": "Xblock AI",
+    "company": "Software Engineer Intern",
+    "companyURL": "https://xblock.ai/",
+    "companyLogo": "/images/xblock_ai_logo.jpeg",
+    "location": "Boston, MA",
+    "type": "Internship (Full-time)",
+    "date": "Dec. 2023 - May 2024",
+    "description": "Developed and deployed an AI Assistant system for restaurant and hotel industries, supplying frontline workers with imme- diate solutions and converting scattered business data into practical insights. Utilized Django Rest Framework to construct RESTful API endpoints, integrating with PostgreSQL for data storage. Containerized the prototype product using Docker and hosted it on AWS EC2 instances with AWS ECR. Implemented secure user authentication and registration using JWT (JSON Web Tokens) for enhanced data security. Managed the front-end interface using Zustand state management, Axios for API requests, and React-Query to optimize data fetching and management.",
+    "skills": [
+      "React",
+      "Django Rest Framework",
+      "AWS",
+      "JavaScript",
+      "PostgresSQL",
+      "Docker",
+      "Zustand"
+    ]
+  },
+  {
+    "title": "Jreamscape LLC",
+    "company": "Software Engineer Intern",
     "companyURL": "http://www.ilistengpt.com/",
     "companyLogo": "/images/Jreamscape.jpg",
-    "location": "Dover, DE",
+    "location": "Boston, MA",
     "type": "Internship (Full-time)",
-    "date": "Sept 2023 - Present",
-    "description": "Fun fact: I speak fluent Mandarin. At Jreamscape, the majority of the employees come from China. So not only has this company given me valuable full stack work experience, but also my Mandarin has become much more natural and conversational. The specifics about what I've accomplished during this internship are listed on every other platform and document that my name appears, so I'll let you read that elsewhere!",
+    "date": "Aug. 2023 - Dec. 2023",
+    "description": "Full-stack builder of React web application that auto-summarizes real-time audio of business meetings. Incorporated ChatGPT API with prompt engineering for contextualized responses. Implemented Azure Speech Recognition for real-time transcription with efficient data storage and retrieval using DynamoDB.",
     "skills": [
       "React",
       "AWS",
